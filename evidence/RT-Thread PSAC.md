@@ -1,7 +1,7 @@
 # 1 Introduction 
 This section defines the scope and purpose of the Plan for Software Aspects of Certification (PSAC).
 ## 1.1 Scope
-This document is used to guide the software lifecycle activities of RT Thread in accordance with the objectives and activities of RTCA/DO-178C. It can serve as a basis for CAA/FAA to conduct software airworthiness compliance verification and review activities, as well as for the applicant to conduct software airworthiness compliance self -inspection.
+This document is used to guide the software lifecycle activities of RT Thread in accordance with the objectives and activities of RTCA/DO-178C. It can serve as a basis for CAA/FAA to conduct software airworthiness compliance verification and review activities, as well as for the applicant to conduct software airworthiness compliance self-inspection.
 ## 1.2 Purpose
 This document is the Plan for Software Aspects of Certification about RT-Thread, prepared in accordance with the requirements of RTCA/DO-178C Section 11.1. It describes System overview, Software overview, Software life cycle, Software life cycle data, Software Aspects of Certification, as well as Additional Certification Considerations for software development and compliance matrix for RTCA/DO-178 Section 11.1.
 The purpose of this document is to establish communication and understanding between the applicant and the CAA/FAA. Once this document is approved by the CAA/FAA, it represents the agreement of all parties that the project will execute the development process and activities as planned, and the resulting lifecycle data will serve as evidence to meet the software approval requirements.
