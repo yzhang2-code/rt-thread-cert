@@ -9,12 +9,7 @@ The purpose of this document is to establish communication and understanding bet
 The following documents are essential for the application of this document. For all referenced documents with a date/version, the date/version noted is applicable to this document. For all referenced documents without a date/version, the latest version (including amendments) is applicable to this document.
 Table 1: List of References provides the documents and links referenced in this document.
 Table 1: List of References
-----------------------------------------------------------
-|   Ref    |          Title                              |
-----------------------------------------------------------
-|          |                                             |
-----------------------------------------------------------
-	
+
 ## 1.4 Terminology and Acronyms
 Table 2: List of Acronyms provides the acronyms used in this document.
 Table 2: List of Acronyms
